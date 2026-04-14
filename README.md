@@ -80,7 +80,7 @@ We welcome contributions from coders and non-coders alike\! Potential areas for 
 * **Other project participants?** We are actively looking for cognitive neuroscientists, physicists/applied mathematicians, and science visualization specialists to join the effort.
 
 
-## ** 📚 Literature **
+## **📚 Literature**
 
 1. https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2023.1120846/full
 2. https://www.nature.com/articles/s41598-018-27001-3
