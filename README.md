@@ -77,6 +77,7 @@ We welcome contributions from coders and non-coders alike\! Potential areas for 
 * Code commenting, finalizing README files, and submitting Pull Requests from our dedicated branches.
 * Drafting a structural outline for our joint publication to organize our asynchronous work after the event.
 * Adding interpretations and conceptual explanations to the findings.
+* **Other project participants?** We are actively looking for cognitive neuroscientists, physicists/applied mathematicians, and science visualization specialists to join the effort.
 
 
 ## ** 📚 Literature **
@@ -86,5 +87,3 @@ We welcome contributions from coders and non-coders alike\! Potential areas for 
 3. https://www.nature.com/articles/s41598-019-46380-9
 4. https://www.sciencedirect.com/science/article/abs/pii/S0378437122005179
 5. https://math.oit.edu/~hammondd/publications/hammond_gur_johnson_ieee_globalsip_2013.pdf
-
-* **Other project participants?** We are actively looking for cognitive neuroscientists, physicists/applied mathematicians, and science visualization specialists to join the effort.
