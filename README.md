@@ -78,4 +78,13 @@ We welcome contributions from coders and non-coders alike\! Potential areas for 
 * Drafting a structural outline for our joint publication to organize our asynchronous work after the event.
 * Adding interpretations and conceptual explanations to the findings.
 
+
+## ** 📚 Literature **
+
+1. https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2023.1120846/full
+2. https://www.nature.com/articles/s41598-018-27001-3
+3. https://www.nature.com/articles/s41598-019-46380-9
+4. https://www.sciencedirect.com/science/article/abs/pii/S0378437122005179
+5. https://math.oit.edu/~hammondd/publications/hammond_gur_johnson_ieee_globalsip_2013.pdf
+
 * **Other project participants?** We are actively looking for cognitive neuroscientists, physicists/applied mathematicians, and science visualization specialists to join the effort.
