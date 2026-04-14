@@ -74,9 +74,3 @@ We welcome contributions from coders and non-coders alike\! Potential areas for 
 * **Branching:** Please create a branch in the HyPhi repo for your specific features or analyses, and submit Pull Requests to the main branch.  
 * **Publications:** We are aiming to turn the new toolkit modules and our findings into a **joint publication**. All active participants who meaningfully contribute will be included\!  
 * **Other project participants?** We are actively looking for cognitive neuroscientists, physicists/applied mathematicians, and science visualization specialists to join the effort.
-
-## **📋 Pre-Hackathon To-Do List (Maintainers)**
-
-* \[ \] Prepare the dataset.  
-* \[ \] Prepare a project one-pager for distribution.  
-* \[ \] Finalize the conceptual map visual.
