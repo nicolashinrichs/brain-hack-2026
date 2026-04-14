@@ -1,6 +1,6 @@
 # **Information-Geometric Hyperscanning for Inter-Brain Networks**
 
-**@ BrainHack Warsaw**  
+## **BrainHack Warsaw 2026**  
 Welcome to the HyPhi(Φ) project repository for BrainHack Warsaw\!  
 HyPhi(Φ) is a scalable hyperscanning analysis pipeline that characterizes inter-brain coupling using discrete Ricci curvature and curvature entropy. Instead of treating inter-brain synchrony as a scalar quantity, we model time-resolved inter-brain networks as evolving geometric objects.
 
@@ -38,14 +38,17 @@ Mattermost handle:
 * **Who:** All participants  
 * **Tasks:**  
   * How to organize and structure our work.  
-  * Preprocess the dataset using the HyPyP pipeline.  
-  * Create initial connectivity matrices using NetworkX.
+  * Grant collaborator access to the main HyPhi repository.
+  * Create dedicated branches for each team/feature.
 
 ### **Day 2**
 
 **Focus:** Core analysis, geometric metrics, and statistical modeling.
 
-* **Who:** Sub-teams  
+* **Who:** Everyone
+  * Preprocess the dataset using the HyPyP pipeline.
+  * Create initial connectivity matrices using NetworkX.
+ 
 * **Teams & Tasks:**  
   * **Team Red:** Focus on *Spectral Graph Analyses*.  
   * **Team Blue:** Focus on *Entropy* and/or *Wasserstein distance* (heat diffusion probabilities vs. random walking) and/or *Statistical Analyses*.  
@@ -71,6 +74,8 @@ We welcome contributions from coders and non-coders alike\! Potential areas for 
 
 ## **🤝 Collaboration & Outputs**
 
-* **Branching:** Please create a branch in the HyPhi repo for your specific features or analyses, and submit Pull Requests to the main branch.  
-* **Publications:** We are aiming to turn the new toolkit modules and our findings into a **joint publication**. All active participants who meaningfully contribute will be included\!  
+* Code commenting, finalizing README files, and submitting Pull Requests from our dedicated branches.
+* Drafting a structural outline for our joint publication to organize our asynchronous work after the event.
+* Adding interpretations and conceptual explanations to the findings.
+
 * **Other project participants?** We are actively looking for cognitive neuroscientists, physicists/applied mathematicians, and science visualization specialists to join the effort.
