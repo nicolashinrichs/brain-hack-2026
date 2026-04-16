@@ -5,21 +5,32 @@
 </p>
 
 ## **BrainHack Warsaw 2026**  
-Welcome to the HyPhi(Φ) project repository for BrainHack Warsaw\!  
+Welcome to the HyPhi(Φ) project repository for BrainHack Warsaw!  
+
 HyPhi(Φ) is a scalable hyperscanning analysis pipeline that characterizes inter-brain coupling using discrete Ricci curvature and curvature entropy. Instead of treating inter-brain synchrony as a scalar quantity, we model time-resolved inter-brain networks as evolving geometric objects.
 
-**Project coordinators** 
+**Project coordinators**
+
 Nicolás Hinrichs
+
 Nahid Torbati
 
-**Contributors**  
+**Contributors**
+
 Kacper Łyczak
+
 Vinayak M. Kulkarni
+
 Katarzyna Libera
+
 Pola Kukiełka
+
 Hanna Święcicka
+
 Marta Lotka
+
 Sylwia Adamus
+
 Zuzanna Maruszewska
 
 ## **🗺️ Conceptual Map & Pipeline**
